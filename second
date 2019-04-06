@@ -1,0 +1,6 @@
+to use a local server,enter a URL like
+http://localhost:8000/
+
+to launch a live preview with a server-side file,you need to specify a base URL for this project
+
+open an html file or make suer there is an index.html file in your project in order to launch live preview. For more info see troubleshooting live preveiw connection errors.
